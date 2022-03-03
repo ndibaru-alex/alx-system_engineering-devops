@@ -1,6 +1,3 @@
 #!/bin/bash
-mkdir tmp 
-#!/bin/bash
-cd tmp
-#!/bin/bash
-mkdir my_first_directory
+mkdir tmp & cd tmp & mkdir my_first_directory
+
